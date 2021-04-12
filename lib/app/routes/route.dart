@@ -7,4 +7,6 @@ class Routes {
   ///Api
   static const apiPrefix = '/api/v1/';
   static const apiStatusCheck = apiPrefix + '/check';
+  //Categeries
+  static const apiGetCategories = apiPrefix + '/category';
 }
